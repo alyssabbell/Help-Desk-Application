@@ -1,0 +1,9 @@
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\bin\Debug\SunyADKHelpDesk.exe.config
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\bin\Debug\SunyADKHelpDesk.exe
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\bin\Debug\SunyADKHelpDesk.pdb
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\obj\Debug\SunyADKHelpDesk.HelpDesk.resources
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\obj\Debug\SunyADKHelpDesk.Properties.Resources.resources
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\obj\Debug\SunyADKHelpDesk.csproj.GenerateResource.Cache
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\obj\Debug\SunyADKHelpDesk.exe
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\obj\Debug\SunyADKHelpDesk.pdb
+C:\Users\alyssa\Desktop\250\PROJ_2_HelpDskTckts\SunyADKHelpDesk\obj\Debug\SunyADKHelpDesk.csprojResolveAssemblyReference.cache
